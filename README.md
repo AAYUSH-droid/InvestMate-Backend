@@ -1,12 +1,12 @@
 
-# Stool
+# InvestMate
 Ever thought of investing in stocks even though you don't know much about finances?
 
 Ever thought of buying a costly stock of high profit returns even if your budget doesn't allow?
 
 Do you also want someone to invest in money earning resources on your behalf even if you can invest only 100Rs per month?
 
-Presenting you with a  **Stool** to make our finance easier and life better.
+Presenting you with a  **InvestMate** to make our finance easier and life better.
 
 A plan to invest in a stock via group pool. Friends and strangers come
 together to invest in stocks and cryptocurrency, for 
@@ -97,9 +97,6 @@ To run this project, you will need to add the following environment variables to
 
 
     
-## Authors
-
-- [@shivamsouravjha](https://github.com/shivamsouravjha)
   
 ## [Backend Link](http://localhost:5001/)
 
